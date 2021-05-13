@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning .
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on ML projects.
-- 📫 How to reach me ...
+- 📫 mail me at shaurabhanupam2001@gmail.com
 
 <!---
 Shaurabh-mishra/Shaurabh-mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
