@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaurabh-mishra
-- 👀 I’m interested in machine learning .
+- 👀 I’m interested in .net and machine learning .
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 mail me at shaurabhanupam2001@gmail.com
